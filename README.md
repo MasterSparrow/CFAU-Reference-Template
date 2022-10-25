@@ -16,7 +16,7 @@
     - 签发人信息
 2. 未配置Tex环境
     - 可以配置一个（不是）
-    - 可以使用overleaf上的模板（上传成功后将在此处po上链接）
+    - 可以使用overleaf上的[模板](https://www.overleaf.com/latex/templates/cfau-reference-letter-template/vvnjxmqysrqg)
   
   ## 祝一切顺利
   
